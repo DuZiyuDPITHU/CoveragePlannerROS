@@ -1,0 +1,8 @@
+<launch>
+
+	<node pkg="contour_detection" type="contour_detection_node" name="contour_detection_node" output="screen" >
+	</node>
+
+	<node pkg="global_planner" type="global_planner_node"  name="global_planner_node" output="screen" >
+	</node>
+</launch>
