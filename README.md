@@ -4,6 +4,7 @@ This is a ROS version repo modified from RicheyHuang's CoveragePlanner.
 **ROS Node：**
 
 contour_detection: *publish polygonal coordinates of contours,*
+
 global_planner: *receive contours and conduct sweep path planning.*
 
 
